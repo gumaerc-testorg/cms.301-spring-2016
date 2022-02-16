@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 97d98dd7-5841-4cf6-1641-0aa5685094cc
 ---
@@ -63,20 +65,6 @@ None
 
 Every Spring semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photo of a classroom with sliding chalkboards, tables and chairs.]({{< resource_file 47b3ab4e-4afb-0e7b-8aa2-d1477c8aeace >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with a capacity of 30 students. The classroom featured sliding chalkboards, moveable tables and chairs, and an LCD video projector.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
 Assessment
@@ -109,7 +97,7 @@ Mostly Comparative Media Studies
 
 ### Typical Student Background
 
-This is an introductory course. For many of the students, it’s the first time they seriously engage with design methods. Some of the students have taken the sister course _[CMS.300 Introduction to Videogame Studies](/courses/cms-300-introduction-to-videogame-studies-fall-2011/)_. The two courses complement each other well, and together they form a solid foundation for more advanced game related courses. The students tend to have a general interest in video games, which we use as a shared starting point.
+This is an introductory course. For many of the students, it’s the first time they seriously engage with design methods. Some of the students have taken the sister course _[CMS.300 Introduction to Videogame Studies](./resolveuid/2c81dfb22b6a12385f3f897b27e65de9)_. The two courses complement each other well, and together they form a solid foundation for more advanced game related courses. The students tend to have a general interest in video games, which we use as a shared starting point.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 

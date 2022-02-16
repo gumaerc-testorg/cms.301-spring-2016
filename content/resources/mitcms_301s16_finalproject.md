@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-301-introduction-to-game-design-methods-spring-2016/45483b947b256b1c06d6e6f399b133b8_MITCMS_301S16_FinalProject.pdf
+file: /media/courses/cms-301-introduction-to-game-design-methods-spring-2016/45483b947b256b1c06d6e6f399b133b8_MITCMS_301S16_FinalProject.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: "CMS.301s16 I\u2019ve Got a Feeling"
 uid: 45483b94-7b25-6b1c-06d6-e6f399b133b8
