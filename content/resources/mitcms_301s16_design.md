@@ -5,6 +5,7 @@ file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/bc7422980
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Design Process I: Understanding the Process, Design Research '
 uid: bc742298-09bb-0443-85aa-b541e02fa19f
 ---
 Lecture slides on user-centered design.
-

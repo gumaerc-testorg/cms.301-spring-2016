@@ -6,6 +6,7 @@ file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/88a0f75c6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Explorative Game Design Project
 uid: 88a0f75c-6b17-e7d5-7011-835c7e0ec236
 ---
 Assignment to explore a design space by creating game prototypes and formulate findings regarding potential play experiences.
-

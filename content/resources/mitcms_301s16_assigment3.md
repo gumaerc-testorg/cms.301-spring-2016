@@ -6,6 +6,7 @@ file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/4faebe488
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Scrabbleship: Working With Game Mechanics'
 uid: 4faebe48-8c99-44a5-d272-cdc6d036204a
 ---
 This is an exercise in identifying and working with game mechanics to create a “mashup” of two existing board games.
-

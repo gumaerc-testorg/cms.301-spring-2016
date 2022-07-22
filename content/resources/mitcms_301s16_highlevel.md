@@ -8,6 +8,7 @@ file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/62d4c0521
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: High Level Design Doc Template
 uid: 62d4c052-1a42-c389-3bc3-89913e15a5fa
 ---
 Supporting file for an assignment to organize an ideation session, evaluate the ideas for a coherent game idea, create an elevator pitch and design highlights for the potential game, and to present the game design and the process that developed it. 
-

@@ -6,6 +6,7 @@ file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/4fb5a0422
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Board Game Analysis: The Mechanics of Takenoko'
 uid: 4fb5a042-28b7-fd2b-2027-c9cb9e674de9
 ---
 This is an exercise in game analysis for design purposes. The task is to identify and describe the game mechanics of the board game Takenoko.
-
