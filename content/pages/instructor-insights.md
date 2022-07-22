@@ -1,37 +1,35 @@
 ---
 content_type: page
-layout: instructor_insights
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 title: Instructor Insights
 uid: 97d98dd7-5841-4cf6-1641-0aa5685094cc
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _CMS.301 Introduction to Game Design Methods_ as it was taught by Mikael Jakobsson and Sara Verrilli in Spring 2016.
 
 This course is an introduction to the theory and practice of the process of designing games and playful experiences. Students are familiarized with methods, concepts, techniques, and literature used in the design of games. The strategy is process-oriented, focusing on aspects such as: rapid prototyping, play testing, and design iteration using a player-centered approach.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
 After completing the course, the student should:
 
-*   Be familiar with the emergence of the academic study of design methods and game design
-*   Be familiar with central concepts within the field
-*   Be able to select and apply appropriate methods and techniques during different stages of the development cycle
-*   Be able to structure and conduct a game design project from conceptualization to playable prototype
-*   Be proficient in contributing to the collaborative learning and development processes
-*   Understand how design can be applied to the academic process of generating new knowledge
+- Be familiar with the emergence of the academic study of design methods and game design
+- Be familiar with central concepts within the field
+- Be able to select and apply appropriate methods and techniques during different stages of the development cycle
+- Be able to structure and conduct a game design project from conceptualization to playable prototype
+- Be proficient in contributing to the collaborative learning and development processes
+- Understand how design can be applied to the academic process of generating new knowledge
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-_Below, Mikael Jakobsson describes various aspects of how he taught_ CMS.301 Introduction to Game Design Methods_._
+_Below, Mikael Jakobsson describes various aspects of how he taught_ CMS.301 Introduction to Game Design Methods.
 
 ### Course Design
 
@@ -47,8 +45,7 @@ Our greatest challenge is finding a balance between, and connecting, theory and 
 
 We work hard to cultivate an atmosphere in which peer feedback is an important part of the learning experience. To some extent, I believe this goes against the students’ expectations. They come in thinking that it’s their presentations that matter, not their feedback on other presentations. It is important to work in small enough student groups that everyone feels that they are heard and that their opinions matter. The instructors also play a crucial role in moderating the communication so that it doesn’t become dominated by a few strong voices. There is always room for improvement when it comes to these aspects of teaching.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -56,31 +53,16 @@ None
 
 ### Requirements Satisfied
 
-*   GIR ![](/images/educator/icon-question-gir.png)
-*   HASS ![](/images/educator/icon-question-hass.png)
+- GIR ![](/images/educator/icon-question-gir.png)
+- HASS ![](/images/educator/icon-question-hass.png)
 
 ### Offered
 
 Every Spring semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photo of a classroom with sliding chalkboards, tables and chairs.]({{< resource_file 47b3ab4e-4afb-0e7b-8aa2-d1477c8aeace >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with a capacity of 30 students. The classroom featured sliding chalkboards, moveable tables and chairs, and an LCD video projector.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -92,12 +74,13 @@ The students' grades were based on the following activities:
 
 ### Instructor Insights on Assessment
 
-Students are evaluated and graded individually and on group projects. The [oral presentations]({{< baseurl >}}/resources/mitcms_301s16_assign8_stp4) are the most important sources for understanding the individual students’ contributions, reflections, and insights. Some students present and represent themselves better in writing, or during actual project work, so we try to incorporate those expressions in the evaluations as well.
+Students are evaluated and graded individually and on group projects. The {{% resource_link a6b60b47-fd07-af96-5827-d37a94e766ae "oral presentations" %}} are the most important sources for understanding the individual students’ contributions, reflections, and insights. Some students present and represent themselves better in writing, or during actual project work, so we try to incorporate those expressions in the evaluations as well.
 
-Student Information
--------------------
+## Student Information
 
-![30 students took this course when it was taught in Spring 2016.]({{< resource_file 5126cd15-2c4e-1a72-5c12-6b7d643d23f9 >}})
+### Enrollment
+
+30 students
 
 ### Breakdown by Year
 
@@ -109,22 +92,19 @@ Mostly Comparative Media Studies
 
 ### Typical Student Background
 
-This is an introductory course. For many of the students, it’s the first time they seriously engage with design methods. Some of the students have taken the sister course _[CMS.300 Introduction to Videogame Studies](/courses/cms-300-introduction-to-videogame-studies-fall-2011/)_. The two courses complement each other well, and together they form a solid foundation for more advanced game related courses. The students tend to have a general interest in video games, which we use as a shared starting point.
+This is an introductory course. For many of the students, it’s the first time they seriously engage with design methods. Some of the students have taken the sister course [_CMS.300 Introduction to Videogame Studies_](/courses/cms-300-introduction-to-videogame-studies-fall-2011). The two courses complement each other well, and together they form a solid foundation for more advanced game related courses. The students tend to have a general interest in video games, which we use as a shared starting point.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met two times per week for 1.5 hours per session.
-*   Students worked in small project groups to engage in a series of assignments. There was an emphasis on presenting and discussing results with the student group and instructors. The weekly cycles began with an introduction of an aspect of game design methodology and a related assignment. The cycles ended with “crit sessions,” during which students presented their work for feedback from student groups and instructors. 
+- Met two times per week for 1.5 hours per session.
+- Students worked in small project groups to engage in a series of assignments. There was an emphasis on presenting and discussing results with the student group and instructors. The weekly cycles began with an introduction of an aspect of game design methodology and a related assignment. The cycles ended with “crit sessions,” during which students presented their work for feedback from student groups and instructors. 
 
-Out of Class
-------------
+### Out of Class
 
-*   Students worked individually and in groups on assignments outside of class.
+- Students worked individually and in groups on assignments outside of class.
