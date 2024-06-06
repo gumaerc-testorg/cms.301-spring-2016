@@ -28,6 +28,7 @@
     "website": "cms-301-introduction-to-game-design-methods-spring-2016"
   },
   "course_title": "Introduction to Game Design Methods",
+  "hide_download": false,
   "course_description": "This course is an introduction to the theory and practice of the process of designing games and playful experiences. Students are familiarized with methods, concepts, techniques, and literature used in the design of games. The strategy is process-oriented, focusing on aspects such as: Rapid prototyping, play testing, and design iteration using a player-centered approach.\n",
   "department_numbers": [
     "CMS-W"
@@ -40,7 +41,8 @@
   },
   "learning_resource_types": [
     "Design Assignments with Examples",
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
   "site_uid": "f6702e57-366f-43fa-b9cc-09a076dee797",
   "site_short_id": "cms.301-spring-2016",
