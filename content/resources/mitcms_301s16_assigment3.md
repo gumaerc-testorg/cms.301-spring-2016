@@ -3,6 +3,7 @@ content_type: resource
 description: "This is an exercise in identifying and working with game mechanics to\
   \ create a \u201Cmashup\u201D of two existing board games."
 file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/4faebe488c9944a5d272cdc6d036204a_MITCMS_301S16_Assigment3.pdf
+file_size: 188556
 file_type: application/pdf
 learning_resource_types:
 - Assignments
