@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/a6b60b47fd07af965827d37a94e766ae_MITCMS_301S16_Assign8_Stp4.pdf
+file_size: 140141
 file_type: application/pdf
 learning_resource_types:
 - Assignments
