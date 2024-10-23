@@ -2,7 +2,7 @@
 content_type: resource
 description: Students in this course will conduct a game design project from conceptualization
   to playable prototype. Image courtesy of Mikael Jakobsson.
-file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/3e2e9d4cfcae6b92be5de751a24ed27c_cms-301s16-th.jpg
+file: /ol-ocw-studio-app/courses/cms-301-introduction-to-game-design-methods-spring-2016/3e2e9d4cfcae6b92be5de751a24ed27c_cms-301s16-th.jpg
 file_size: 4774
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Solution for an exercise in game analysis for design purposes. The task
   was to identify and describe the game mechanics of the board game Takenoko.
-file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/fd5bc53db2b8568b3245f2a5b1ebdf3a_MITCMS_301S16_Assign2_Sol.pdf
+file: /ol-ocw-studio-app/courses/cms-301-introduction-to-game-design-methods-spring-2016/fd5bc53db2b8568b3245f2a5b1ebdf3a_MITCMS_301S16_Assign2_Sol.pdf
 file_size: 572248
 file_type: application/pdf
 learning_resource_types:

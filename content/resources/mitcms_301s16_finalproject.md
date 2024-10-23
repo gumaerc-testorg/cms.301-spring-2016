@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/45483b947b256b1c06d6e6f399b133b8_MITCMS_301S16_FinalProject.pdf
+file: /ol-ocw-studio-app/courses/cms-301-introduction-to-game-design-methods-spring-2016/45483b947b256b1c06d6e6f399b133b8_MITCMS_301S16_FinalProject.pdf
 file_size: 417321
 file_type: application/pdf
 learning_resource_types:
