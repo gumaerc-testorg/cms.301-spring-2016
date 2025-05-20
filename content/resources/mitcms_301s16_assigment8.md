@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to explore a design space by creating game prototypes and
   formulate findings regarding potential play experiences.
-file: /ol-ocw-studio-app/courses/cms-301-introduction-to-game-design-methods-spring-2016/88a0f75c6b17e7d57011835c7e0ec236_MITCMS_301S16_Assigment8.pdf
+file: /courses/cms-301-introduction-to-game-design-methods-spring-2016/88a0f75c6b17e7d57011835c7e0ec236_MITCMS_301S16_Assigment8.pdf
 file_size: 590790
 file_type: application/pdf
 learning_resource_types:
