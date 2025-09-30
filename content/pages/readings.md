@@ -24,7 +24,7 @@ Introduction
 
 Gaver, Bill, Tony Dunne, et al. "Design: Cultural Probes." (PDF) *Interactions* 6, no. 1 (1999): 21–29.
 
-Gaver, William W., Andrew Boucher, et al. ["Cultural Probes and the Value of Uncertainty." (PDF)](http://research.gold.ac.uk/4720/1/p53-gaver.pdf) *Interactions* 11, no. 5 (2004): 53–56.
+Gaver, William W., Andrew Boucher, et al. {{% resource_link "e418fd82-906a-4eea-a71c-b5dcf19277e1" "\"Cultural Probes and the Value of Uncertainty.\" (PDF)" %}} *Interactions* 11, no. 5 (2004): 53–56.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -32,13 +32,13 @@ Gaver, William W., Andrew Boucher, et al. ["Cultural Probes and the Value of Unc
 Design
 {{< tdclose >}}{{< tdopen >}}
 
-Bauza, Antoine. ["Takenoko Rules." (PDF - 6.3MB)](http://www.matagot.com/docs/Takenoko_rules_EN.pdf)
+Bauza, Antoine. {{% resource_link "1518adf4-ab19-40e1-b39c-750e4758d1c4" "\"Takenoko Rules.\" (PDF - 6.3MB)" %}}
 
 ### Videos
 
-Watch It Played. "[Takenoko - How To Play (feat. Collector's Edition)](https://www.youtube.com/watch?v=o6MJEbGbCNs&feature=youtu.be)." September 15, 2013. YouTube.
+Watch It Played. "{{% resource_link "141c9a76-97fa-4505-a30b-2e38d20168bd" "Takenoko - How To Play (feat. Collector's Edition)" %}}." September 15, 2013. YouTube.
 
-Geek & Sundry. "[Takenoko - Harley Morenstein, Rosanna Pansino, and Drew Roy join Wil on TableTop SE2E14](https://www.youtube.com/watch?v=wv4n-e-hb_o&feature=youtu.be)." November 14, 2013. YouTube.
+Geek & Sundry. "{{% resource_link "521f0b69-9cc9-4ae2-8087-7ed07f3c8a52" "Takenoko - Harley Morenstein, Rosanna Pansino, and Drew Roy join Wil on TableTop SE2E14" %}}." November 14, 2013. YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -56,11 +56,11 @@ Buley, Leah. Chapter 6 in *The User Experience Team of One: A Research and Desig
 Design Teams
 {{< tdclose >}}{{< tdopen >}}
 
-Brathwaite, Brenda, and Ian Shreiber. Chapter 1 in [*Challenges for Game Designers (PDF - 4.3MB)*](https://epdf.pub/challenges-for-game-designers.html). Charles River Media, Incorporation, 2009.
+Brathwaite, Brenda, and Ian Shreiber. Chapter 1 in {{% resource_link "d523f818-2070-4732-a734-4b97a456e596" "*Challenges for Game Designers (PDF - 4.3MB)*" %}}. Charles River Media, Incorporation, 2009.
 
 ### Video
 
-[How Brainwriting can Neutralize the Loudmouths](http://www.kellogg.northwestern.edu/news_articles/2014/06262014-video-thompson-brainwriting.aspx).
+{{% resource_link "838c8911-eb63-4d1f-b2ce-f7d46ed894be" "How Brainwriting can Neutralize the Loudmouths" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -74,9 +74,9 @@ Fullerton, Tracy. Chapter 7 in *Game Design Workshop: A Playcentric Approach to 
 Playtesting
 {{< tdclose >}}{{< tdopen >}}
 
-[Playtesting Resources](http://playtestingworkshops.com/resources.html)
+{{% resource_link "9c6225be-9ff9-4826-8ed0-ab187dccc256" "Playtesting Resources" %}}
 
-Niedenthal, Simon. "[Real-time Sweetspot: The Multiple Meanings of Game Company Playtests](https://dspace.mah.se/handle/2043/12775)." *DiGRA*, 2007.
+Niedenthal, Simon. "{{% resource_link "712136d2-4e7a-4090-8ec9-4379e37ea3de" "Real-time Sweetspot: The Multiple Meanings of Game Company Playtests" %}}." *DiGRA*, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -84,8 +84,8 @@ Niedenthal, Simon. "[Real-time Sweetspot: The Multiple Meanings of Game Company 
 Game Design Research
 {{< tdclose >}}{{< tdopen >}}
 
-Fallman, Daniel. "[The Interaction Design Research Triangle of Design Practice, Design Studies, and Design Exploration](http://dx.doi.org/10.1162/desi.2008.24.3.4)." *Design Issues* 24, no. 3 (2008): 4–18.
+Fallman, Daniel. "{{% resource_link "e9d8a59a-5fe0-43c1-b412-6a91caa3efc9" "The Interaction Design Research Triangle of Design Practice, Design Studies, and Design Exploration" %}}." *Design Issues* 24, no. 3 (2008): 4–18.
 
-Eladhari, Mirjam P., and Elina M. I. Ollila. "[Design for Research Results: Experimental Prototyping and Play Testing](http://dx.doi.org/10.1177/1046878111434255)." *Simulation & Gaming* 43, no. 3 (2012): 391–412.
+Eladhari, Mirjam P., and Elina M. I. Ollila. "{{% resource_link "b5835317-5517-4909-8717-7be83bd1b540" "Design for Research Results: Experimental Prototyping and Play Testing" %}}." *Simulation & Gaming* 43, no. 3 (2012): 391–412.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
